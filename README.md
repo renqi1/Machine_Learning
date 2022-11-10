@@ -1,3 +1,5 @@
+# 简介
+
 学习笔记我看的是天池课程[机器学习原理与时间](https://tianchi.aliyun.com/course/278?spm=5176.21206777.J_7877492310.18.4d6117c9MFtCtG)
 
 项目是天池学习赛，包括[银行客户认购产品预测](https://tianchi.aliyun.com/competition/entrance/531993/introduction?spm=5176.12281925.0.0.414c71375zwicY)
